@@ -1,16 +1,9 @@
 # address_lookup
 
-A new Flutter project.
+A sample flutter project for address lookup.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Using CLEAN architecture with entire flow despite not having any real data layer (as an example)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If I had more time, I would add some Widget tests and would mock AddressLookupViewModel via mockito. Unit tests would also be written, albeit in this case they would be very trivial.
